@@ -1,2 +1,6 @@
 print("ciao")
 print("ciao")
+print("ciao")
+print("bella a tutti")
+print("ciao")
+print("ciao")
